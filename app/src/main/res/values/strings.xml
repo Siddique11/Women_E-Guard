@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Women E-guard</string>
+    <string name="action_help">Safety Tips</string>
+    <string name="add_first_number">Add First Number</string>
+    <string name="enter_contact">Enter Contact</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">Save</string>
+    <string name="title_activity_list">Emergency Number List</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="title_activity_list2">List2Activity</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="action_police">Nearest Police STA</string>
+</resources>
